@@ -1,0 +1,9 @@
+/*Media devices with a screen size of 450px or less will change font size and background color */
+@media screen and (max-width: 450px) {
+    p {
+        font-size: 1rem;
+    }
+    body{
+        background-color: tan;
+    }
+}

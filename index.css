@@ -1,0 +1,41 @@
+
+  nav {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 200px;
+    background-color: rgba(24, 23, 23, 0.804);
+    padding: 20px;
+    margin: 10px;
+    z-index: 1000;
+    text-align: center;
+    display: block;
+  }
+  
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    margin-bottom: 10px;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    display: block;
+  }
+  
+  nav a:hover {
+    color: rgb(226, 136, 57);
+    text-decoration: underline;
+  }
+
+  p{
+    font-size: 2rem;
+    padding: 10px;
+    margin: 15px;
+  }
